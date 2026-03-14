@@ -11,7 +11,7 @@ public class ArrayOperation {
 
             if(arr[i]> max)
             {
-               max=arr[1];
+               max=arr[i];
             }
 
             if(arr[i]< min)
